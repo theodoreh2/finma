@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.finma.ch	TRUE	/	FALSE	1999999999	finma_main#lang	$xc/AIqI1PMXqvqoWRCwUDf!4kPXo7Y=
+www.finma.ch	TRUE	/	FALSE	1999999999	shell#lang	$xc/AIqI1PMXqvqoWRCwUDf!4kPXo7Y=
+www.finma.ch	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	$xc/qjIU6AyKmMJCRN8oZMerqrYbOKr8gpfbI9dZYGL9k3egu!DV
+www.finma.ch	TRUE	/	FALSE	1999999999	SC_ANALYTICS_GLOBAL_COOKIE	$xc/LuPxRNXITlQwMJHzzIIijsAQh05AD4WP1BoyIJjFaHfhqpQxhx1sgyXn7rT26dX!I9SNqA==
+www.finma.ch	TRUE	/	FALSE	1999999999	AL_SESS-S	AdB4NH52mnSNiAUUg9ZCfxSQrXUAmlID1mV4WaRcNAIzZ2UUU7FRI9kC3K_sADIMZOOA
+www.finma.ch	TRUE	/	FALSE	1999999999	SameSite	Lax
+
